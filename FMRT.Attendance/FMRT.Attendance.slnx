@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FMRT.Attendance.API/FMRT.Attendance.API.csproj" Id="80b9fc27-c2df-4674-92b7-48863db73522" />
+  <Project Path="FMRT.Attendance.Application/FMRT.Attendance.Application.csproj" Id="0e1b87e5-32a4-4eeb-8b35-215990699276" />
+  <Project Path="FMRT.Attendance.Domain/FMRT.Attendance.Domain.csproj" Id="5dba5d69-9d70-43da-a0ad-4cc8c1750fed" />
+  <Project Path="FMRT.Attendance.Infrastructure/FMRT.Attendance.Infrastructure.csproj" Id="5b6430aa-3331-4da7-987a-988156730af9" />
+</Solution>
